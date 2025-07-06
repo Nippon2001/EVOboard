@@ -1,0 +1,400 @@
+{
+  "report_type": "inline",
+  "rows": {
+    "data": [
+      [
+        {
+          "name": "date",
+          "value": "2025-05-01T00:00:00.000Z",
+          "type": "date"
+        },
+        {
+          "name": "brand_id",
+          "value": 1879,
+          "type": "number"
+        },
+        {
+          "name": "campaign_id",
+          "value": 394,
+          "type": "number"
+        },
+        {
+          "name": "visits_count",
+          "value": 2,
+          "type": "number"
+        },
+        {
+          "name": "registrations_count",
+          "value": 1,
+          "type": "number"
+        },
+        {
+          "name": "currency",
+          "value": "EUR",
+          "type": "string"
+        },
+        {
+          "name": "ngr",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "0.0",
+            "amount": "0.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "deposits_sum",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "30000.0",
+            "amount": "300.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "first_deposits_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "clean_net_revenue",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "0.0",
+            "amount": "0.00"
+          },
+          "type": "money"
+        }
+      ],
+      [
+        {
+          "name": "date",
+          "value": "2025-05-01T00:00:00.000Z",
+          "type": "date"
+        },
+        {
+          "name": "brand_id",
+          "value": 1880,
+          "type": "number"
+        },
+        {
+          "name": "campaign_id",
+          "value": 395,
+          "type": "number"
+        },
+        {
+          "name": "visits_count",
+          "value": 2,
+          "type": "number"
+        },
+        {
+          "name": "registrations_count",
+          "value": 1,
+          "type": "number"
+        },
+        {
+          "name": "currency",
+          "value": "N/A",
+          "type": "string"
+        },
+        {
+          "name": "ngr",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "deposits_sum",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "first_deposits_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "clean_net_revenue",
+          "value": 0,
+          "type": "number"
+        }
+      ],
+      [
+        {
+          "name": "date",
+          "value": "2025-05-02T00:00:00.000Z",
+          "type": "date"
+        },
+        {
+          "name": "brand_id",
+          "value": 1880,
+          "type": "number"
+        },
+        {
+          "name": "campaign_id",
+          "value": 395,
+          "type": "number"
+        },
+        {
+          "name": "visits_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "registrations_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "currency",
+          "value": "EUR",
+          "type": "string"
+        },
+        {
+          "name": "ngr",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "-30000.0",
+            "amount": "-300.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "deposits_sum",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "0.0",
+            "amount": "0.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "first_deposits_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "clean_net_revenue",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "-30000.0",
+            "amount": "-300.00"
+          },
+          "type": "money"
+        }
+      ],
+      [
+        {
+          "name": "date",
+          "value": "2025-05-03T00:00:00.000Z",
+          "type": "date"
+        },
+        {
+          "name": "brand_id",
+          "value": 1879,
+          "type": "number"
+        },
+        {
+          "name": "campaign_id",
+          "value": 394,
+          "type": "number"
+        },
+        {
+          "name": "visits_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "registrations_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "currency",
+          "value": "EUR",
+          "type": "string"
+        },
+        {
+          "name": "ngr",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "30000.0",
+            "amount": "300.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "deposits_sum",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "0.0",
+            "amount": "0.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "first_deposits_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "clean_net_revenue",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "30000.0",
+            "amount": "300.00"
+          },
+          "type": "money"
+        }
+      ],
+      [
+        {
+          "name": "date",
+          "value": "2025-05-04T00:00:00.000Z",
+          "type": "date"
+        },
+        {
+          "name": "brand_id",
+          "value": 1880,
+          "type": "number"
+        },
+        {
+          "name": "campaign_id",
+          "value": 395,
+          "type": "number"
+        },
+        {
+          "name": "visits_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "registrations_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "currency",
+          "value": "EUR",
+          "type": "string"
+        },
+        {
+          "name": "ngr",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "30000.0",
+            "amount": "300.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "deposits_sum",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "0.0",
+            "amount": "0.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "first_deposits_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "clean_net_revenue",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "30000.0",
+            "amount": "300.00"
+          },
+          "type": "money"
+        }
+      ]
+    ]
+  },
+  "totals": {
+    "data": [
+      [
+        {
+          "name": "visits_count",
+          "value": 4,
+          "type": "number"
+        },
+        {
+          "name": "registrations_count",
+          "value": 2,
+          "type": "number"
+        },
+        {
+          "name": "currency",
+          "value": "EUR",
+          "type": "string"
+        },
+        {
+          "name": "ngr",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "30000.0",
+            "amount": "300.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "deposits_sum",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "30000.0",
+            "amount": "300.00"
+          },
+          "type": "money"
+        },
+        {
+          "name": "first_deposits_count",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "name": "clean_net_revenue",
+          "value": {
+            "currency": "EUR",
+            "amount_cents": "30000.0",
+            "amount": "300.00"
+          },
+          "type": "money"
+        }
+      ]
+    ]
+  },
+  "relations": {
+    "campaigns": [
+      {
+        "id": 394,
+        "name": "campaign393",
+        "strategy": "rev_share"
+      },
+      {
+        "id": 395,
+        "name": "campaign394",
+        "strategy": "rev_share"
+      }
+    ],
+    "promos": [],
+    "brands": [
+      {
+        "id": 1879,
+        "name": "brand1879"
+      },
+      {
+        "id": 1880,
+        "name": "brand1880"
+      }
+    ],
+    "partners": [],
+    "commissions": [],
+    "dedicated_operators": []
+  },
+  "current_page": 1,
+  "total_pages": 1,
+  "current_per_page": 20,
+  "total_count": 2
+}
